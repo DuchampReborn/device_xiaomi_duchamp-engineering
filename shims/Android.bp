@@ -1,0 +1,11 @@
+//
+// Copyright (C) 2023 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_library {
+    name: "libaudioclient_mt6897",
+    srcs: ["libaudioclient_mt6897.cpp"],
+    system_ext_specific: true,
+}

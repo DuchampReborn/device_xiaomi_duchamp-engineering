@@ -1,0 +1,14 @@
+vendor/lib64/libbluetooth_relayer.so
+vendor/lib64/libbluetoothem_mtk.so
+vendor/lib64/vendor.mediatek.hardware.engineermode-V1-ndk.so
+system_ext/lib64/libaudiotoolkit.so
+system_ext/lib64/libem_aoltest_jni.so
+system_ext/lib64/libem_audio_jni.so
+system_ext/lib64/libem_bleoffload_jni.so
+system_ext/lib64/libem_support_jni.so
+system_ext/lib64/libem_wifi_jni.so
+system_ext/app/EngineerMode/EngineerMode.apk
+vendor/etc/init/em_hal_user.rc
+vendor/etc/vintf/manifest/em_hal_service.xml
+vendor/bin/em_hidl
+system_ext/etc/permissions/privapp-permissions-com.mediatek.engineermode.xml
